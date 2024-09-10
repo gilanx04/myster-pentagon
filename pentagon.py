@@ -32,7 +32,6 @@ headers = {
     "path": "/pentagonv1/pentil.php",
     "scheme": "https",
     "Accept": "*/*",
-    "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en-US,en;q=0.9",
     "Content-Type": "application/x-www-form-urlencoded",
     "Origin": "https://pentil.pink",
